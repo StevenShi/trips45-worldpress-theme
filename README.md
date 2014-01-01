@@ -3,9 +3,11 @@ trips45-worldpress-theme
 
 trips45 worldpress theme was based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin Panel. .pot file has been provided for I18N translation into other languages.
 
-The theme is used by the Trips For Five web site at http://blog.trips45.com/
+The theme is used by the[Trips For Five web site ](http://blog.trips45.com).  I created this theme because I wanted a blog site that does not look very much like a Wordpress site, so the theme by design uses a single column style, without the widget clusters at the side.  
 
-You are free to use and modify the theme.  The theme comes GNU General Public License. More details about the License can be found in the license.txt file included in the theme.
+I also wanted to build a site with [Typekit](https://typekit.com/colophons/gsp6ccs).  Unlike Google Font, Typekit Fonts are not free, however, you can sign up for a trial account, which does not expire as of today's writing.
+
+You are free to use and modify the theme.   The theme comes GNU General Public License. More details about the License can be found in the license.txt file included in the theme. 
 
 
 ## Copyrights for Resources used in this theme.
