@@ -1,0 +1,206 @@
+body {
+ font-family: 'raleway', sans-serif;
+ background-color: #fcfcfc;
+}
+
+body #page {
+  padding-top: 75px;
+}
+
+.site-branding {
+float: left;
+text-align: center;
+margin-top: 0px;
+padding-top: 0px;
+margin-top: 0px;
+}
+
+.page-divider {
+border-bottom: 1px solid #ddd;
+margin-bottom: 5px;
+}
+
+#content {
+padding-top: 0px;
+}
+
+body #header-top {
+  background-color: #fcfcfc;
+  padding-top: 0px;
+  margin-left: 0px;
+}
+
+body #header-2 {
+  width: 100%;
+  background:#fcfcfc;
+padding-top: 0px;
+
+}
+
+
+body h1.site-title {
+  font-family: "museo-sans", sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  display: inline-block;
+  line-height: 1.6em;
+  font-size: 32px;
+}
+
+body h1.site-title a {
+  color: #222;
+   font-weight: 500;
+ font-size: 32px;
+}
+
+body #site-navigation {
+background: #fcfcfc;
+padding-bottom: 0px;
+padding-top: 10px;
+border: none;
+text-align: center;
+float: right;
+font-family: 'raleway', sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+font-style: normal;
+margin-right: 0px;
+}
+
+#site-navigation ul {
+  font-family: "raleway", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  float: right;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  padding-bottom: 0px;
+}
+
+.slider-wrapper {
+ border-top: none;
+ margin-bottom: 10px;
+}
+
+div.slide-title {
+  font-family: "raleway", sans-serif;
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+  display: block;
+}
+
+div.slide-description {
+  font-family: "raleway", sans-serif;
+    font-weight: 300;
+   font-size: 13px;
+}
+
+#primary-home h1.entry-title {
+  margin-bottom: 0px;
+  font-family: 'raleway', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#secondary h1.widget-title, #footer-sidebar h1.widget-title {
+color: #3d3d3d;
+font-family: 'museo-sans', sans-serif;
+font-weight: 400;
+}
+
+.nivoSlider {
+position: relative;
+width: 100%;
+height: auto;
+overflow: hidden;
+}
+
+.logo-subtitle {
+font-family: "raleway";
+font-size: 12px;
+line-height: 1em;
+text-transform: none;
+text-decoration: none;
+letter-spacing: 1px;
+font-weight: 400;
+font-style: normal;
+color: #a5a5a5;
+margin-bottom: 20px;
+text-align: center;
+}
+
+#top-search {
+float: right;
+position: relative;
+top: -10px;
+z-index: 999;
+margin-bottom: 5px;
+margin-right: 0px;
+}
+#top-search .search-form {
+float: right;
+font-size: 90%;
+}
+
+#site-navigation li a:hover{border-bottom:none;background:none;color:#111;}
+
+#primary {
+margin-top: 0px;
+border: none;
+padding-top: 0px;
+font-family: "museo-sans", sans-serif;
+font-weight:300;
+font-style: normal;
+}
+
+h1, .h1 {
+font-family: "museo-sans", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 26px;
+text-transform: capitalize;
+}
+
+h2, .h2 {
+font-family: "museo-sans", sans-serif;
+font-weight:500;
+font-style: normal;
+font-size: 20px;
+}
+
+h3, .h3 {
+font-family: "museo-sans", sans-serif;
+font-weight:400;
+font-style: normal;
+font-size: 16px;
+}
+
+h1, h2, h3 {
+margin-top: 0px;
+margin-bottom: 10px;
+}
+
+.featured-image-single {
+width: 80%;
+text-align: center;
+margin: 10px auto;
+margin-top: 0px;
+}
+
+
+.yarpp-related {
+text-align: center;
+}
+
+.single .entry-meta, .page .entry-meta {
+border-bottom: none;
+padding-bottom: 0px;
+}
