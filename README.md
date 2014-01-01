@@ -17,7 +17,7 @@ You are free to use and modify the theme.  The theme comes GNU General Public Li
 	v) The Administration Panel uses "Options Framework", which is under GPL v2 license. http://wptheming.com/options-framework-theme/
 	vi) The files options-custom.js, color-picker.js and media-uploader.js present in the "/js" Folder are part of the "Options Framework", and are under GPL v2.
 	vii) skip-link-focus-fix.js, navigation.js, customizer.js & keyboard-image-navigation.js are part of the Underscores Framework used by the theme, and hence under GPL v2.
-	viii) The images nthumb have been created by Inkness for the purpose of this theme. 2cl and 2cr are part of Options framework and are under GPL license.
+	viii) The images nthumb have been created by Inkness. 2cl and 2cr are part of Options framework and are under GPL license.
 	ix) The files in the css/ folder are a part of nivoSlider and under MIT license.
 	x) The Timeago Plugin used in this theme is under the MIT License. http://timeago.yarp.com/
 
