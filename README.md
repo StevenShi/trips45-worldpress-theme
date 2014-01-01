@@ -3,7 +3,7 @@ trips45-worldpress-theme
 
 trips45 worldpress theme was based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin Panel. .pot file has been provided for I18N translation into other languages.
 
-You are free to use and modify the theme.  The theme comes GNU General Public License. More Details about the License can be found in the license.txt file included in the theme.
+You are free to use and modify the theme.  The theme comes GNU General Public License. More details about the License can be found in the license.txt file included in the theme.
 
 
 ## Copyrights for Resources used in this theme.
