@@ -1,9 +1,9 @@
 trips45-worldpress-theme
 ========================
 
-trips45 worldpress theme was based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin Panel. .pot file has been provided for I18N translation into other languages.
+trips45 is a free worldpress theme.  It was based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin Panel. .pot file has been provided for I18N translation into other languages.
 
-The theme is used by the[Trips For Five web site ](http://blog.trips45.com).  I created this theme because I wanted a blog site that does not look very much like a Wordpress site, so the theme by design uses a single column style, without the widget clusters at the side.  
+The theme is used by the [Trips For Five web site ](http://blog.trips45.com).  I created this theme because I wanted a blog site that does not look very much like a Wordpress site, so the theme by design uses a single column style, without the widget clusters at the side.  
 
 I also wanted to build a site with [Typekit](https://typekit.com/colophons/gsp6ccs).  Unlike Google Font, Typekit Fonts are not free, however, you can sign up for a trial account, which does not expire as of today's writing.
 
@@ -12,7 +12,8 @@ You are free to use and modify the theme.   The theme comes GNU General Public L
 
 ## Copyrights for Resources used in this theme.
   
-* This theme was based on the Inkness Wordpress Theme. For Support read the Documentation-Inkness.pdf file which is available with this theme. For any other help please visit http://inkhive.comnkness WordPress Theme is Based on the Underscores Framework http://underscores.me/, (C) 2012-2013 Automattic, Inc. Inkness Theme comes GNU General Public License.
+* This theme was based on the Inkness Wordpress Theme. For Support read the Documentation-Inkness.pdf file which is available with this theme. For any other help please visit http://inkhive.comn 
+* Inkness WordPress Theme is Based on the Underscores Framework http://underscores.me/, (C) 2012-2013 Automattic, Inc. Inkness Theme comes GNU General Public License.
 * Trips45 Uses Elements from the Bootstrap Framework, which is under the Apache v2 license.
 * Font-Awesome Icons are under the MIT Licnese.
 * This theme uses nivoSlider, which is under the MIT License. More details: 
