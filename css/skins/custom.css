@@ -204,3 +204,10 @@ text-align: center;
 border-bottom: none;
 padding-bottom: 0px;
 }
+
+article code {
+background: #f8f8f8;
+color: #000000;
+border: 1px solid #ddd;
+}
+

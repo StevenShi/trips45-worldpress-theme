@@ -615,8 +615,11 @@ body.archive .entry-title {
   line-height: 1.6em;
 }
 .entry-content {
-  line-height: 1.8em;
-  color: #999999;
+  color: #5b5b5b;
+  font-family: "museo-sans";
+  font-weight: 300;
+  font-size: 14px;
+  font-style: normal;
 }
 .comments-link {
   float: right;
