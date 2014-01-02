@@ -44,9 +44,9 @@
 			<?php	
 			}
 			?>
- <div class="logo-subtitle">
-        	Steve&#039;s Random Musings on Travel and Technology
-         </div>
+ 				<div class="logo-subtitle">
+        			<?php bloginfo( 'description' ); ?>
+         		</div>
 			</div>	
 			
 			<div class="default-nav-wrapper col-md-7 col-xs-12"> 	
