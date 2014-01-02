@@ -344,7 +344,7 @@ function optionsframework_options() {
 		
 	$options[] = array(
 		'name' => __('Live Blog', 'options_framework_theme'),
-		'desc' => __('View the theme in action at <a href="http://blog.trips45.com/" target="_blank">a Live Blog</a> of the theme. You can take a look at and find out how your site would look once complete.', 'options_framework_theme'),
+		'desc' => __('View the theme in action at <a href="http://blog.trips45.com/" target="_blank">Trips For Five Blog</a>. I created this theme because I wanted a blog site that does not look too much like other Wordpress sites -- the theme by design uses a single column style, without the widget clusters on the pages. It also de-emphasizes social icons by having them show up in the footer area only. ', 'options_framework_theme'),
 		'type' => 'info');		
 		
 //	$options[] = array(

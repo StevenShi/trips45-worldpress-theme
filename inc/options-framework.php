@@ -147,7 +147,7 @@ function optionsframework_menu_settings() {
 		'page_title' => __( 'Trips45 Theme Options', 'optionsframework'),
 		'menu_title' => __('Trips45 Settings', 'optionsframework'),
 		'capability' => 'edit_theme_options',
-		'menu_slug' => 'Inkness-options',
+		'menu_slug' => 'Trips45-options',
 		'callback' => 'optionsframework_page'
 	);
 
@@ -375,7 +375,7 @@ function optionsframework_adminbar() {
 			'parent' => 'appearance',
 			'id' => 'of_theme_options',
 			'title' => __( 'Trips45 Settings', 'options_framework_theme' ),
-			'href' => admin_url( 'themes.php?page=Inkness-options' )
+			'href' => admin_url( 'themes.php?page=Trips45-options' )
 		));
 }
 
