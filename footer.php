@@ -46,7 +46,7 @@
 	<?php if ( of_get_option('credit1', true) == 0 ) { ?>
 		<div class="site-info col-md-8">
 			<?php do_action( 'inkness_credits' ); ?>
-			<?php printf( __( 'Designed With Trips For Five Theme. Find it on %1$s.', 'Github' ), '<a href="http://github.trips45.com/trips45-worldpress-theme/" rel="designer">Github</a>' ); ?>
+			<?php printf( __( 'Designed With Trips45 Wordpress Theme. Get it on %1$s.', 'Github' ), '<a href="http://github.trips45.com/trips45-worldpress-theme/" rel="designer">Github</a>' ); ?>
 		</div> <!-- .site-info -->
 	<?php } ?>	
 		<div id="footertext" class="col-md-7">
