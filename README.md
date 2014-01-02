@@ -12,7 +12,7 @@ The theme comes GNU General Public License. More details about the License can b
 
 ## Install
 
-One of many ways:
+Below is just one of several options to install themes in Wordpress:  
 
 * Download the repo as a zip
 * Log into Wordpress Admin -> Appearance -> Themes -> New --> Upload the zip
