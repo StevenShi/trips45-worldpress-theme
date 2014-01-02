@@ -335,7 +335,7 @@ function optionsframework_options() {
 	'type' => 'heading');
 	
 	$options[] = array(
-		'desc' => __('This theme was based on the Inkness WordPress theme, which was created by <a href="http://InkHive.com" target="_blank">Rohit Tripathi</a>. '),
+		'desc' => __('This theme was based on the Inkness WordPress theme.  InkNess was created by <a href="http://InkHive.com" target="_blank">Rohit Tripathi</a>. '),
 		'type' => 'info');		
 		
 //	 $options[] = array(
