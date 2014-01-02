@@ -83,7 +83,7 @@ body {
   position: relative;
 }
 .site-title a {
-  color: #4d5e6a;;
+  color: #008aa2;;
   font-size: 29px;
   font-weight: 200;
 }
@@ -122,7 +122,7 @@ body {
   transition: ease 0.4s all;
 }
 .social-icon:hover {
-  color: #4d5e6a;
+  color: #008aa2;
   text-shadow: 3px 3px 1px #818181;
   top: -1px;
   left: -1px;
@@ -195,12 +195,12 @@ a:hover .social-icon {
 /* 4. Links
 ------------------------------------------------------- */
 a {
-  color: #4d5e6a;;
+  color: #008aa2;;
 }
 a:hover,
 a:focus,
 a:active {
-  color: #4d5e6a;
+  color: #008aa2;
 }
 /* 5. Carousel Wrapper
 ------------------------------------------------------- */
@@ -302,9 +302,9 @@ a:active {
   font-weight: lighter;
 }
 #site-navigation a:hover {
-  border-bottom: #4d5e6a; solid 2px;
+  border-bottom: #008aa2; solid 2px;
   background: none;
-  color: #4d5e6a;;
+  color: #008aa2;;
 }
 #site-navigation ul ul a {
   border-bottom: none;
@@ -314,9 +314,9 @@ a:active {
   background: none;
 }
 #site-navigation li:hover > a {
-  border-bottom: #4d5e6a; solid 2px;
+  border-bottom: #008aa2; solid 2px;
   padding-bottom: 23px;
-  color: #4d5e6a;;
+  color: #008aa2;;
 }
 #site-navigation ul ul li:hover > a {
   background: #ffffff;
@@ -553,7 +553,7 @@ article.archive .article-rest {
   font-family: "museo-sans", Arial, Helvetica, sans-serif;
 }
 .archive .entry-title a:hover {
-  color: #4d5e6a;
+  color: #008aa2;
 }
 .archive .entry-meta {
   font-size: small;
@@ -712,7 +712,7 @@ h1.page-title {
 }
 #primary-home .entry-title a:hover {
   text-decoration: none;
-  color: #4d5e6a;;
+  color: #008aa2;;
 }
 #primary-home .entry-meta {
   margin-top: 8px;
