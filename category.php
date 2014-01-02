@@ -52,7 +52,7 @@ get_header(); ?>
 				endwhile; 
 			?>
 
-			<?php inkness_pagination(); ?>
+			<?php trips45_pagination(); ?>
 
 		<?php else : ?>
 
