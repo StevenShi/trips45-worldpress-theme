@@ -58,7 +58,7 @@ body h1.site-title a {
 body #site-navigation {
 background: #fcfcfc;
 padding-bottom: 0px;
-padding-top: 10px;
+padding-top: -10px;
 border: none;
 text-align: center;
 float: right;
@@ -66,8 +66,10 @@ font-family: 'raleway', sans-serif;
 font-weight: 400;
 text-transform: uppercase;
 font-style: normal;
-margin-right: 0px;
+margin-right: -10px;
 }
+
+
 
 #site-navigation ul {
   font-family: "raleway", sans-serif;
@@ -76,9 +78,10 @@ margin-right: 0px;
   font-size: 12px;
   float: right;
   list-style: none;
-  margin: 0;
+  margin-right: 10px;
   padding-left: 0;
   padding-bottom: 0px;
+  padding-top: 10px;
 }
 
 .slider-wrapper {
