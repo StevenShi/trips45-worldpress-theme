@@ -1,7 +1,7 @@
 trips45-worldpress-theme
 ========================
 
-trips45 is a free worldpress theme.  It was based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin panel. Dot pot files are provided for I18N translation into other languages.
+trips45 is a free worldpress theme.  It is based on Inkness, a responsive theme with 3-column grid based homepage layout. This theme includes a reponsive slider, multiple page layouts, configurable sidebar locations, footer widgets & easy to use admin panel. Dot pot files are provided for I18N translation into other languages.
 
 The theme is used by [Trips For Five web site ](http://blog.trips45.com).  I created this theme because I wanted a blog site that does not look too much like other Wordpress sites -- the theme by design uses a single column style, without the widget clusters on the pages.  It also de-emphasizes social icons by having them show up in the footer area only.
 
