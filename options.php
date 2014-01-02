@@ -354,11 +354,11 @@ function optionsframework_options() {
 	
 	$options[] = array(
 		'name' => __('Regenerating Post Thumbnails', 'options_framework_theme'),
-		'desc' => __('If you are using the Theme on a New Wordpress Installation, then you can skip this section.<br />But if you have just switched to this theme from some other theme, then you may need to  regenerate all the post thumbnails. It will fix the issues you are facing with distorted homepage thumbnail Images. ', 'options_framework_theme'),
+		'desc' => __('If you are using the theme on a new Wordpress installation, then you can skip this section.<br />But if you have just switched to this theme, then you may need to  regenerate all the post thumbnails. ', 'options_framework_theme'),
 		'type' => 'info');	
 		
 	$options[] = array(
-		'desc' => __('To Regenerate all Thumbnail images, Install and Activate the <a href="http://wordpress.org/plugins/regenerate-thumbnails/" target="_blank">Regenerate Thumbnails</a> WP Plugin. Then from <strong>Tools &gt; Regen. Thumbnails</strong>, re-create thumbnails for all your existing images.<br /> ', 'options_framework_theme'),
+		'desc' => __('To regenerate all thumbnail images, install and activate the <a href="http://wordpress.org/plugins/regenerate-thumbnails/" target="_blank">Regenerate Thumbnails</a> WP Plugin. Then from <strong>Tools &gt; Regen. Thumbnails</strong>, re-create thumbnails for all your existing images.<br /> ', 'options_framework_theme'),
 		'type' => 'info');	
 		
 			
