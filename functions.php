@@ -34,7 +34,7 @@ function trips45_setup() {
 	) );
 
 	add_theme_support( 'custom-background', apply_filters( 'trips45_custom_background_args', array(
-		'default-color' => '#fcfcfc',
+		'default-color' => 'fcfcfc',
 		'default-image' => '',
 	) ) );
 }
