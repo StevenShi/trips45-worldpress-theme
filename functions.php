@@ -33,10 +33,11 @@ function trips45_setup() {
 		'primary' => __( 'Primary Menu', 'trips45' ),
 	) );
 
-	add_theme_support( 'custom-background', apply_filters( 'trips45_custom_background_args', array(
+/**	add_theme_support( 'custom-background', apply_filters( 'trips45_custom_background_args', array(
 		'default-color' => 'fcfcfc',
 		'default-image' => '',
 	) ) );
+**/
 }
 endif; // trips45_setup
 add_action( 'after_setup_theme', 'trips45_setup' );
