@@ -10,6 +10,12 @@ I also wanted to build a site with [Typekit](https://typekit.com/colophons/gsp6c
 
 The theme comes GNU General Public License. More details about the License can be found in the license.txt file included in the theme. 
 
+## Install
+
+One of many ways:
+
+* Download the repo as a zip
+* Log into Wordpress Admin -> Appearance -> Themes -> New --> Upload the zip
 
 ## Copyrights for Resources used in this theme.
   
