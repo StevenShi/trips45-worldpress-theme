@@ -51,6 +51,11 @@ function optionsframework_options() {
 		'type' => 'textarea');
 		
 	$options[] = array(
+		'desc' => __('Hidden feature:  the site header area has a hidden Google custom search bar.  Place your own <a href="https://www.google.com/cse/" target="_blank">Google Custom Search</a> script in the Header Script area above, and watch the Google search bar appear!'),
+		'std' => '',
+		'type' => 'info');
+
+	$options[] = array(
 		'name' => __('Custom Code in Footer', 'options_framework_theme'),
 		'desc' => __('Insert scripts or code before the closing &lt;/body&gt; tag in the document source:', 'options_framework_theme'),
 		'id' => 'footercode1',
@@ -64,10 +69,7 @@ function optionsframework_options() {
 		'std' => '',
 		'type' => 'textarea');
 	
-//	$options[] = array(
-//		'desc' => __('To have more customization options <a href="http://inkhive.com/product/inkness-plus/" target="_blank">Upgrade to Pro</a> at Just $19.95'),
-//		'std' => '',
-//		'type' => 'info');
+	
 		
 	//Design Settings
 		
