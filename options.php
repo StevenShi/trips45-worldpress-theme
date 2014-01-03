@@ -56,6 +56,10 @@ function optionsframework_options() {
 		'type' => 'info');
 
 	$options[] = array(
+		'desc' => __('Hint:  if you choose to activate the Google search bar, select either Minimalist or Shiny theme from GCS for the best out of the box look and feel without additional development in custom CSS.'),
+		'type' => 'info');
+
+	$options[] = array(
 		'name' => __('Custom Code in Footer', 'options_framework_theme'),
 		'desc' => __('Insert scripts or code before the closing &lt;/body&gt; tag in the document source:', 'options_framework_theme'),
 		'id' => 'footercode1',
@@ -64,7 +68,7 @@ function optionsframework_options() {
 		
 	$options[] = array(
 		'name' => __('Copyright Text', 'options_framework_theme'),
-		'desc' => __('Some Text regarding copyright of your site, you would like to display in the footer.', 'options_framework_theme'),
+		'desc' => __('Some text regarding copyright of your site you would like to display in the footer.', 'options_framework_theme'),
 		'id' => 'footertext2',
 		'std' => '',
 		'type' => 'textarea');
@@ -79,7 +83,7 @@ function optionsframework_options() {
 	
 	$options[] = array(
 		'name' => "Sidebar Layout",
-		'desc' => "Select Layout for Posts & Pages.",
+		'desc' => "Select Layout for Posts & Pages.  Please note this theme uses a signle column layout for most pages, so this setting is not very relevant.",
 		'id' => "sidebar-layout",
 		'std' => "right",
 		'type' => "images",
