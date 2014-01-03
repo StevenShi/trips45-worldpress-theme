@@ -228,3 +228,54 @@ color: #000000;
 border: 1px solid #ddd;
 }
 
+
+/* Gallery Legacy */
+#gallerycontainer{
+    padding-top: 15px;
+    text-align:center;
+}
+
+#gallerycontainer .thumbnaillarge {
+    float: left;
+    text-align: center;   
+    width:194px;
+    font-size:100%;
+    text-align:center;
+    margin-bottom: 3%;
+}
+
+#gallerycontainer .thumbnaillarge  .ttt{
+    height:184px;
+    width:194px;
+    background:url(transparent_album_background.gif) no-repeat left;
+    float:left;
+} 
+
+#gallerycontainer .thumbnaillarge .project-title {
+    font-family: Georgia, serif;
+    font-weight: normal;
+    /*font-style: italic; */
+    text-transform: normal;
+    font-family: "raleway";
+    font-size: 12px;
+    line-height: 1.6em;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0px;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    color: #707070;
+}
+
+h1.page-title {
+color: #333;
+display: inline-block;
+border-bottom: none;
+font-family: "museo-sans", sans-serif;
+font-weight: 500;
+font-style: normal;
+font-size: 26px;
+text-transform: capitalize;
+line-height: 1.6em;
+}
