@@ -19,9 +19,9 @@ Below is just one of several options to install themes in Wordpress:
 * 
 ## Hidden feature
 
-The site header area has a hidden Google custom search bar. Place your own Google Custom Search script in the Header Script area above, and watch the google search bar appear!
+The site header area has a hidden [Google custom search bar](https://www.google.com/cse/). Place your own Google Custom Search script in the Header Script area above, and watch the google search bar appear!
 
-You just only need the gsc script itself.  No need to place the <gcse:searchbox-only></gcse:searchbox-only> tags.
+You just only need the gsc script itself.  Do not include the `<gcse:searchbox-only>` tags.
 
 ## Copyrights for Resources used in this theme.
   
@@ -38,4 +38,3 @@ You just only need the gsc script itself.  No need to place the <gcse:searchbox-
 * The images nthumb have been created by Inkness. 2cl and 2cr are part of Options framework and are under GPL license.
 * The files in the css/ folder are a part of nivoSlider and under MIT license.
 * The Timeago Plugin used in this theme is under the MIT License. http://timeago.yarp.com/
-
