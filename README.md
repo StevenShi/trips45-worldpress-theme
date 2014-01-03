@@ -19,9 +19,9 @@ Below is just one of several options to install themes in Wordpress:
 
 ## Hidden feature
 
-The site header area has a hidden [Google custom search bar](https://www.google.com/cse/). Place your own Google Custom Search script in the Header Script area above, and watch the google search bar appear!
+The site header area has a hidden [Google custom search bar](https://www.google.com/cse/). Place your own Google Custom Search script in the Header Script area in the Admin panel, and watch the google search bar appear!
 
-You just only need the gsc script itself.  Do not include the `<gcse:searchbox-only>` tags.
+You  only need the gsc script itself.  Do not include the `<gcse:searchbox-only>` tags.
 
 ## Copyrights for Resources used in this theme.
   
