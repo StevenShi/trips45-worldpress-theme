@@ -58,7 +58,7 @@
 							<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 	         		</div>  
 							
-				<div id="site-navigation" class="main-navigation col-md-6"><gcse:searchbox-only></gcse:searchbox-only</div>
+				<div id="site-navigation" class="main-navigation col-md-6"><gcse:searchbox-only></gcse:searchbox-only></div>
 			</nav><!-- #site-navigation -->
   			
 		  	</div>
