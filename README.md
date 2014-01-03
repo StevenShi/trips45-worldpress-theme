@@ -16,7 +16,7 @@ Below is just one of several options to install themes in Wordpress:
 
 * Download the repo as a zip
 * Log into Wordpress Admin -> Appearance -> Themes -> New --> Upload the zip
-* 
+
 ## Hidden feature
 
 The site header area has a hidden [Google custom search bar](https://www.google.com/cse/). Place your own Google Custom Search script in the Header Script area above, and watch the google search bar appear!
