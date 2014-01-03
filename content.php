@@ -17,14 +17,21 @@
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 	
-	<div class="featured-thumb col-md-12 col-xs-12">
-	<a href="<?php the_permalink(); ?>">
+	
 	<?php if (has_post_thumbnail()) :
+	?>
+		<div class="featured-thumb col-md-12 col-xs-12">
+		<a href="<?php the_permalink(); ?>">
+	<?php
+
 		the_post_thumbnail('homepage-banner');	
+	?>
+		</a>
+		</div>
+	<?php	
 	endif; 
 	?>
-	</a>
-	</div>
+	
 	<div class="article-rest col-md-12">
 
 	<?php if ( is_search() ) : // Only display Excerpts for Search ?>

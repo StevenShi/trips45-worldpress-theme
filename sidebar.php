@@ -5,7 +5,7 @@
  * @package Inkness
  */
 ?>
-	<div id="secondary" class="widget-area col-md-4" role="complementary">
+	<div id="secondary" class="widget-area col-md-3" role="complementary">
 		<?php do_action( 'before_sidebar' ); ?>
 		<?php if ( ! dynamic_sidebar( 'sidebar-1' ) ) : ?>
 
