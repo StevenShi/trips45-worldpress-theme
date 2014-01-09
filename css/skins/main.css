@@ -61,6 +61,8 @@ body {
 #page {
   position: relative;
   z-index: 888;
+  padding-top: 75px;
+  
 }
 #page ::selection {
   background: #4d5e6a;;
@@ -326,6 +328,10 @@ a:active {
   border-top: none;
 }
 @media screen and (max-width: 767px) {
+
+  #page {
+  padding-top: 25px;
+  }
   #site-navigation {
     width: 100%;
   }
@@ -371,16 +377,24 @@ a:active {
   }
   h1.menu-toggle {
     width: 100%;
+   /** border-bottom: 1px solid #ddd;**/
+    text-align: center;
   }
   .menu-toggle:before {
-    content: "\f0ca";
-    font-family: "FontAwesome";
-    height: 0;
+    content: "menu";
+    font-family: "raleway";
+    font-weight: 500;
+    text-transform: uppercase;
+    height: 0px;
     width: 0px;
-    margin-right: 20px;
+    margin: 0px;
     position: relative;
+   /* cursor: pointer; */
+    font-size: 16px !important;
+    color: #999;
+
   }
-}
+
 /* Small menu */
 .menu-toggle {
   display: none;

@@ -3,9 +3,6 @@ body {
  background-color: #fcfcfc;
 }
 
-body #page {
-  padding-top: 75px;
-}
 
 .site-branding {
 float: left;
@@ -278,11 +275,4 @@ font-style: normal;
 font-size: 26px;
 text-transform: capitalize;
 line-height: 1.6em;
-}
-
-@media screen and (max-width: 767px)
-.menu-toggle:before {
-content: "Menu";
-font-family: "raleway";
-text-transform: uppercase;
 }

@@ -33,6 +33,8 @@
 	<?php do_action( 'inkness_before' ); ?>
 	<div id="header-top">
 		<header id="masthead" class="site-header row container" role="banner">
+			
+			
 			<div class="site-branding col-md-5 col-xs-12">
 			<?php if((of_get_option('logo', true) != "") && (of_get_option('logo', true) != 1) ) { ?>
 				<h1 class="site-title logo-container"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
@@ -59,7 +61,7 @@
 							<div class="screen-reader-text skip-link"><a href="#content" title="<?php esc_attr_e( 'Skip to content', 'inkness' ); ?>"><?php _e( 'Skip to content', 'inkness' ); ?></a></div>
 		
 								<?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
-		         		</div>  
+						</div>
 		         		<div id="nav-container">
 		         			<gcse:searchbox-only></gcse:searchbox-only>
 		         		</div>	
