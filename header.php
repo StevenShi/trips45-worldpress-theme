@@ -69,14 +69,14 @@
 		  	</div>
 		</header><!-- #masthead -->
 	</div>
-	
-	<div id="header-2">
-		
-	<!--<div class="ribbon"></div>    -->
-
-		<div class="container">
-			<div class="page-divider "></div>
-<div class="container">
+<!--	
+	<div id="header-2">  </div>	
+	<div class="ribbon"></div>    
+-->
+		<div id="content" class="site-content row clearfix clear">
+			
+			<div class="container">
+				<div class="page-divider "></div>
 				<?php
 					if ( (function_exists( 'of_get_option' )) && (of_get_option('slidetitle5',true) !=1) ) {
 						if ( ( of_get_option('slider_enabled') != 0 ) && (is_home())  )  
@@ -88,7 +88,7 @@
 				  		for ($i=1;$i<6;$i++) {
 				  			$caption = ((of_get_option('slidetitle'.$i, true)=="")?"":"#caption_".$i);
 							if ( of_get_option('slide'.$i, true) != "" ) {
-								echo "<a href='".of_get_option('slideurl'.$i, true)."'><img src='".of_get_option('slide'.$i, true)."' title='".$caption."'></a>"; 
+								echo "<a href='".of_get_option('slideurl'.$i, true)."'><img src='".of_get_option('slide'.$i, true)."' title='".$caption."' alt='".$caption."'></a>"; 
 								$slider_flag = true;
 							}
 						}
@@ -107,12 +107,10 @@
 		    	    
 					?>
 		    </div> <!--#slider wrapper-->
-
-    	</div> </div><!--#container-->
+    
 				<?php 
 						}
 					} 	
 				?>
-		<!--<div id="content" class="site-content row clearfix clear">-->
-		<div>
+		
 		<div class="container col-md-12"> 
