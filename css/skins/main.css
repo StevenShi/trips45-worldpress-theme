@@ -2,24 +2,24 @@
 /* Table of Contents
 ------------------------------------------------------- *
 
-	0. Bootstrap Fixes
-	1. Less Variables & Mixins
-	2. Top Bar
-	3. Header
-	4. Links
-	5. Navigation Menu
-	6. Slider
-	7. Content
-		7.1. Primary
-		7.2. Secondary
-	8. Pagination
-	9. Footer
-	10. HTML Markup and Formatting
-	11. Widgets Style
-	12. Comments	
+  0. Bootstrap Fixes
+  1. Less Variables & Mixins
+  2. Top Bar
+  3. Header
+  4. Links
+  5. Navigation Menu
+  6. Slider
+  7. Content
+    7.1. Primary
+    7.2. Secondary
+  8. Pagination
+  9. Footer
+  10. HTML Markup and Formatting
+  11. Widgets Style
+  12. Comments  
 
 /* 0. Bootstrap Fixes
--------------------------------------------------------	*/
+------------------------------------------------------- */
 body {
   background: #f7f7f7;
 }
@@ -37,7 +37,7 @@ code {
   color: none;
 }
 /* 1. Less Variables & Mixins
--------------------------------------------------------	*/
+------------------------------------------------------- */
 .font {
   font-family: "museo-sans", Times, serif;
 }
@@ -219,7 +219,7 @@ a:active {
   margin-left: 0px;
 }
 /* 5. Navigation Menu 
--------------------------------------------------------	*/
+------------------------------------------------------- */
 /* Default Navigation */
 .nav-wrapper {
   margin-bottom: 25px;
@@ -304,9 +304,9 @@ a:active {
   font-weight: lighter;
 }
 #site-navigation a:hover {
-  border-bottom: #008aa2; solid 2px;
+  border-bottom: solid 2px;
   background: none;
-  color: #008aa2;;
+  color: #008aa2;
 }
 #site-navigation ul ul a {
   border-bottom: none;
@@ -316,9 +316,9 @@ a:active {
   background: none;
 }
 #site-navigation li:hover > a {
-  border-bottom: #008aa2; solid 2px;
+  border-bottom: solid 2px;
   padding-bottom: 23px;
-  color: #008aa2;;
+  color: #008aa2;
 }
 #site-navigation ul ul li:hover > a {
   background: #ffffff;
@@ -496,7 +496,7 @@ div.slide-description {
 }
 .single .fa-clock-o:before,
 .single .fa-user:before {
-  color: #4d5e6a; !important;
+  color: #4d5e6a; 
 }
 article.archive .article-rest {
   margin: auto;
