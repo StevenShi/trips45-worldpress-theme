@@ -47,7 +47,7 @@ if ( post_password_required() )
 				 * define inkness_comment() and that will be used instead.
 				 * See inkness_comment() in inc/template-tags.php for more.
 				 */
-				wp_list_comments( array( 'callback' => 'inkness_comment' ) );
+				wp_list_comments( array( 'callback' => 'inkness_comment', 'reverse_top_level' => true) );
 			?>
 		</ol><!-- .comment-list -->
 
